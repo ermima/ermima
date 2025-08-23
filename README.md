@@ -68,7 +68,24 @@ I also have a strong foundation in **Data Structures & Algorithms**, which allow
 - System Design Principles  
 
 ---
+##  Laravel Expertise
 
+  🏗️ Architecture & Structure
+- Use a Layered Architecture
+  🔐 Security First Approach
+- Mass Assignment Protection
+- Authorization with policies
+- Request Validation
+  🗃️ Database & Eloquent Best Practices
+- Eager Loading & Performance
+- Proper indexing
+  🚀 Performance Optimization
+- Caching Strategy
+- Queue Implementation
+  🔄 API Development
+- API Resources & Transformation
+- API Versioning
+---
 ## 🌟 Featured Projects
 
 - **[Personal Portfolio](https://d-portfolio-2f67f.web.app/)** → Responsive portfolio built with *React, Tailwind, Framer Motion*, and deployed on Firebase.  
