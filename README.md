@@ -15,7 +15,7 @@ I also have a strong foundation in **Data Structures & Algorithms**, which allow
 - Currently working at **Alyah Software**  
 - Pursuing a **BSc in Computer Science** at *Bahirdar University* (Graduating 2025)  
 - Exploring **Python & Artificial Intelligence**  
-- Check out my live projects: [To-Do List App](https://to-do-list-b06ef.web.app/)  
+- Check out my live projects: [Donation Application](https://to-do-list-b06ef.web.app/)  
 - Fun fact: I love solving algorithmic challenges while sipping coffee ☕  
 
 ---
