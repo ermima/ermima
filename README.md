@@ -12,11 +12,11 @@ I’m a **Full-Stack Developer** with a passion for crafting modern, scalable, a
 I specialize in **Laravel**, **React**, and **Firebase**, and I love bringing ideas to life with **Tailwind CSS** and **Framer Motion**.  
 I also have a strong foundation in **Data Structures & Algorithms**, which allows me to design efficient and optimized solutions.  
 
-- 🔭 Currently working at **Alyah Software**  
-- 🎓 Pursuing a **BSc in Computer Science** at *Bahirdar University* (Graduating 2025)  
-- 🌱 Exploring **Python & Artificial Intelligence**  
-- 💻 Check out my live projects: [To-Do List App](https://to-do-list-b06ef.web.app/)  
-- ⚡ Fun fact: I love solving algorithmic challenges while sipping coffee ☕  
+- Currently working at **Alyah Software**  
+- Pursuing a **BSc in Computer Science** at *Bahirdar University* (Graduating 2025)  
+- Exploring **Python & Artificial Intelligence**  
+- Check out my live projects: [To-Do List App](https://to-do-list-b06ef.web.app/)  
+- Fun fact: I love solving algorithmic challenges while sipping coffee ☕  
 
 ---
 
@@ -60,7 +60,7 @@ I also have a strong foundation in **Data Structures & Algorithms**, which allow
 
 ---
 
-## 🧠 Problem-Solving Expertise
+## Problem-Solving Expertise
 
 - Data Structures & Algorithms  
 - Complexity Analysis  
