@@ -72,16 +72,20 @@ I also have a strong foundation in **Data Structures & Algorithms**, which allow
 
   🏗️ Architecture & Structure
 - Use a Layered Architecture
- 🔐 Security First Approach
+---
+🔐 Security First Approach
 - Mass Assignment Protection
 - Authorization with policies
 - Request Validation
+---
 🗃️ Database & Eloquent Best Practices
 - Eager Loading & Performance
 - Proper indexing
+---
 🚀 Performance Optimization
 - Caching Strategy
 - Queue Implementation
+---
 🔄 API Development
 - API Resources & Transformation
 - API Versioning
