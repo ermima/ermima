@@ -1,112 +1,71 @@
-# Hi there, I'm Ermias Antigegn! 👋
+# Hi there, I'm Ermias Antigegn! 🇪🇹 👋
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-FF6B6B?style=for-the-badge&logo=firefox-browser)](https://d-portfolio-2f67f.web.app/)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ermias-antigegn-20756a253/)
-[![Telegram](https://img.shields.io/badge/✉️%20Telegram-Message-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/ermiasantigegn)
+**Full-Stack Engineer | Laravel & Next.js Specialist | Mobile Developer**
 
----
+Building high-integrity, scalable systems with a focus on clean architecture and performance. I bridge the gap between complex backend logic and fluid user experiences.
 
-## 🚀 About Me
-
-I’m a **Full-Stack Developer** with a passion for crafting modern, scalable, and user-friendly applications.  
-I specialize in **Laravel**, **React**, and **Firebase**, and I love bringing ideas to life with **Tailwind CSS** and **Framer Motion**.  
-I also have a strong foundation in **Data Structures & Algorithms**, which allows me to design efficient and optimized solutions.  
-
-- Currently working at **Alyah Software**  
-- Pursuing a **BSc in Computer Science** at *Bahirdar University* (Graduating 2025)  
-- Exploring **Python & Artificial Intelligence**  
-- Check out my live projects: [Donation Application](https://to-do-list-b06ef.web.app/)  
-- Fun fact: I love solving algorithmic challenges while sipping coffee ☕  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ermias-antigegn-20756a253/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel)](https://ermiasantigegn.vercel.app)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/ermiasantigegn)
+[![Timezone](https://img.shields.io/badge/Timezone-GMT%2B3-brightgreen?style=for-the-badge)](#)
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Project: SyncOps
+**Global Field Service Orchestration Platform**  
+*A synchronized, high-integrity platform designed for military-grade precision in field agent deployment.*
 
-**Frontend & Styling**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Databases**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Languages & Tools**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- **Architecture:** Decoupled Monorepo (Node.js/TS REST API + React Admin Dashboard + Flutter Mobile Terminal).
+- **Core Innovation:** Proof-of-Work logic via GPS-fenced photo evidence capture.
+- **Tech:** React, Tailwind CSS v4, Node.js, Riverpod (State Management), MongoDB Atlas.
+- [**View Repository**](https://github.com/ermima/SyncOps) | [**Live Demo**](https://ermiasantigegn.vercel.app)
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Professional Experience
+
+### **Full-Stack Engineer @ Alyah Software**  
+*January 2024 — Present*
+- Architecting scalable web solutions using **Laravel** and **React**.
+- Implementing **Security-First** approaches: Mass Assignment Protection, Policy-based Authorization, and strict Request Validation.
+- Optimizing database performance through Eloquent Eager Loading and strategic Indexing.
+
+---
+
+## 🛠️ Engineering Stack
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Backend** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+
+---
+
+## 🧠 Engineering Standards (Laravel & Node)
+
+- **Clean Architecture:** Use of Service-Repository patterns and Layered Architecture to keep controllers thin.
+- **API Excellence:** Versioned REST APIs with standardized JSON transformations using API Resources.
+- **Performance:** Strategic Caching (Redis/Memcached) and Queue Implementation (Redis/Database) for asynchronous tasks.
+- **Security:** CSRF protection, JWT Authentication, and Role-Based Access Control (RBAC).
+
+---
+
+## 📊 Performance Metrics
 
 <p align="center">
-  <a href="https://github.com/ermima">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ermima&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermima&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=procfile" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermima&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ermima&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermima&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=procfile" />
 </p>
 
 ---
 
-## Problem-Solving Expertise
+## 🤝 Let's Collaborate
+I am currently looking for **Full-time Remote roles** or **High-impact Contracts**.  
+- 🌍 **Based in:** Bahir Dar, Ethiopia (GMT+3)
+- 🎓 **Education:** BSc in Computer Science, Bahir Dar University (Expected 2025)
+- 📜 **Certified:** Udacity Nanodegrees in Full-Stack Programming & Data Analysis.
+- 💬 **Ask me about:** Laravel Optimization, React performance, or SyncOps architecture.
 
-- Data Structures & Algorithms  
-- Complexity Analysis  
-- Code Optimization & Performance Tuning  
-- System Design Principles  
-
----
-##  Laravel Expertise
-
-  🏗️ Architecture & Structure
-- Use a Layered Architecture
----
-🔐 Security First Approach
-- Mass Assignment Protection
-- Authorization with policies
-- Request Validation
----
-🗃️ Database & Eloquent Best Practices
-- Eager Loading & Performance
-- Proper indexing
----
-🚀 Performance Optimization
-- Caching Strategy
-- Queue Implementation
----
-🔄 API Development
-- API Resources & Transformation
-- API Versioning
----
-## 🌟 Featured Projects
-
-- **[Personal Portfolio](https://d-portfolio-2f67f.web.app/)** → Responsive portfolio built with *React, Tailwind, Framer Motion*, and deployed on Firebase.  
-- **[To-Do List Application](https://to-do-list-b06ef.web.app/)** → Task manager with smooth animations and real-time features.  
-
----
-
-## 🤝 Let’s Connect
-
-I’m always open to collaborations, exciting projects, and meaningful tech discussions.  
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox-browser)](https://d-portfolio-2f67f.web.app/)  
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ermias-antigegn-20756a253/)  
-[![Telegram](https://img.shields.io/badge/✉️%20Telegram-Message-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/ermiasantigegn)  
-
----
-
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=ermima&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+[**Download My Resume**](https://ermiasantigegn.vercel.app/resume.pdf) | [**Email Me**](mailto:chanyalew21@gmail.com)
