@@ -18,7 +18,7 @@ Building high-integrity, scalable systems with a focus on clean architecture and
 - **Architecture:** Decoupled Monorepo (Node.js/TS REST API + React Admin Dashboard + Flutter Mobile Terminal).
 - **Core Innovation:** Proof-of-Work logic via GPS-fenced photo evidence capture.
 - **Tech:** React, Tailwind CSS v4, Node.js, Riverpod (State Management), MongoDB Atlas.
-- [**View Repository**](https://github.com/ermima/SyncOps) | [**Live Demo**](https://ermiasantigegn.vercel.app)
+- [**View Repository**]([https://github.com/ermima/SyncOps](https://github.com/ermima/Enterprise-Field-Service-Resource-Management-Platform)) | [**Live Demo**](https://ermiasantigegn.vercel.app)
 
 ---
 
