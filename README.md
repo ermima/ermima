@@ -4,7 +4,7 @@
 
 I help startup founders, agencies, and businesses build secure, high-performance web applications. Whether you need to fix a struggling Laravel backend, launch a new React SaaS from scratch, or scale an existing platform, I bridge the gap between your business vision and a reliable digital asset.
 
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~YOUR_UPWORK_LINK_HERE)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01a6c487f6828d9ce9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ermias-antigegn-20756a253/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel)](https://ermiasantigegn.vercel.app)
 [![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/ermiasantigegn)
