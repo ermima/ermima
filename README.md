@@ -1,58 +1,58 @@
 # Hi there, I'm Ermias Antigegn! 🇪🇹 👋
 
-**Full-Stack Engineer | Laravel & Next.js Specialist | Mobile Developer**
+**Full-Stack Developer | Laravel & React Specialist | Delivering Scalable SaaS & Enterprise Apps**
 
-Building high-integrity, scalable systems with a focus on clean architecture and performance. I bridge the gap between complex backend logic and fluid user experiences.
+I help startup founders, agencies, and businesses build secure, high-performance web applications. Whether you need to fix a struggling Laravel backend, launch a new React SaaS from scratch, or scale an existing platform, I bridge the gap between your business vision and a reliable digital asset.
 
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~YOUR_UPWORK_LINK_HERE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ermias-antigegn-20756a253/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel)](https://ermiasantigegn.vercel.app)
 [![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/ermiasantigegn)
-[![Timezone](https://img.shields.io/badge/Timezone-GMT%2B3-brightgreen?style=for-the-badge)](#)
 
 ---
 
-## 🚀 Featured Project: SyncOps
-**Global Field Service Orchestration Platform**  
-*A synchronized, high-integrity platform designed for military-grade precision in field agent deployment.*
+## 🚀 Featured Projects (What I've Built)
 
-- **Architecture:** Decoupled Monorepo (Node.js/TS REST API + React Admin Dashboard + Flutter Mobile Terminal).
-- **Core Innovation:** Proof-of-Work logic via GPS-fenced photo evidence capture.
-- **Tech:** React, Tailwind CSS v4, Node.js, Riverpod (State Management), MongoDB Atlas.
-- [**View Repository**](https://github.com/ermima/Enterprise-Field-Service-Resource-Management-Platform) | [**Live Demo**](https://ermiasantigegn.vercel.app)
+### 1. Government Investment Management System (Enterprise)
+*Architecting a secure, digitized system for the Amhara Region Industry & Investment Bureau.*
+- **Business Impact:** Digitized complex bureaucratic workflows, allowing for secure, role-based processing of government permits and capital registrations.
+- **Tech:** Laravel, React, PostgreSQL, Strict Policy-based Authorization.
+
+### 2. Aezop - Custom Freelance SaaS Platform
+*A live, real-time marketplace connecting freelancers with clients.*
+- **Business Impact:** Built from the ground up to handle real-time user matching, secure authentication, and seamless UI/UX.
+- **Tech:** TALL/MERN Stack, Real-time WebSockets, AWS.
+
+### 3. SyncOps - Field Service Orchestration Platform
+*A synchronized platform designed for precision field agent deployment.*
+- **Business Impact:** Implemented Proof-of-Work logic via GPS-fenced photo evidence capture to ensure accountability for remote workers.
+- **Tech:** Node.js API, React Dashboard, Flutter Mobile Terminal, MongoDB.
+- [**Live Demo**](https://ermiasantigegn.vercel.app) | [**View Repository**](https://github.com/ermima/Enterprise-Field-Service-Resource-Management-Platform)
 
 ---
 
-## 💼 Professional Experience
+## 💼 Why Clients Hire Me (The Business Value)
 
-### **Full-Stack Engineer @ Alyah Software**  
-*January 2024 — Present*
-- Architecting scalable web solutions using **Laravel** and **React**.
-- Implementing **Security-First** approaches: Mass Assignment Protection, Policy-based Authorization, and strict Request Validation.
-- Optimizing database performance through Eloquent Eager Loading and strategic Indexing.
+As a developer, I don't just write code; I write code that protects and grows your business.
+
+- 🛡️ **Enterprise-Grade Security:** I implement strict Request Validation, JWT Authentication, and Mass Assignment Protection so your users' data is never compromised.
+- ⚡ **Lightning Fast Performance:** I optimize database queries (solving N+1 issues) and implement caching strategies (Redis) so your app loads instantly, keeping your users happy.
+- 🏗️ **Clean Architecture:** I build scalable systems using Service-Repository patterns. This means when you want to add new features in the future, it is cheap, fast, and won't break your existing app.
 
 ---
 
-## 🛠️ Engineering Stack
+## 🛠️ My Engineering Stack
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Backend** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Backend** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
 | **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
 
 ---
 
-## 🧠 Engineering Standards (Laravel & Node)
-
-- **Clean Architecture:** Use of Service-Repository patterns and Layered Architecture to keep controllers thin.
-- **API Excellence:** Versioned REST APIs with standardized JSON transformations using API Resources.
-- **Performance:** Strategic Caching (Redis/Memcached) and Queue Implementation (Redis/Database) for asynchronous tasks.
-- **Security:** CSRF protection, JWT Authentication, and Role-Based Access Control (RBAC).
-
----
-
-## 📊 Performance Metrics
+## 📊 GitHub Activity & Performance
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ermima&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -61,11 +61,11 @@ Building high-integrity, scalable systems with a focus on clean architecture and
 
 ---
 
-## 🤝 Let's Collaborate
-I am currently looking for **Full-time Remote roles** or **High-impact Contracts**.  
-- 🌍 **Based in:** Bahir Dar, Ethiopia (GMT+3)
-- 🎓 **Education:** BSc in Computer Science, Bahir Dar University (Expected 2025)
-- 📜 **Certified:** Udacity Nanodegrees in Full-Stack Programming & Data Analysis.
-- 💬 **Ask me about:** Laravel Optimization, React performance, or SyncOps architecture.
+## 🤝 Let's Build Something Great
+I am currently available for **Freelance Contracts** and **Remote Full-Time Roles**.
 
-[**Download My Resume**](https://ermiasantigegn.vercel.app/resume.pdf) | [**Email Me**](mailto:chanyalew21@gmail.com)
+- 🌍 **Based in:** Bahir Dar, Ethiopia (GMT+3) - *Flexible to overlap with EU/US time zones.*
+- 💼 **Current Role:** Full-Stack Engineer @ Alyah Software
+- 💬 **Ask me about:** Laravel API Optimization, React performance, or SaaS Architecture.
+
+👉 **[Send me an email](mailto:chanyalew21@gmail.com)** or message me on **Upwork** to discuss your project roadmap!
