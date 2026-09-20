@@ -11,7 +11,7 @@ I help startup founders, agencies, and businesses build secure, high-performance
 
 ---
 
-## 🚀 Featured Projects (What I've Built)
+##  Featured Projects (What I've Built)
 
 ### 1. Government Investment Management System (Enterprise)
 *Architecting a secure, digitized system for the Amhara Region Industry & Investment Bureau.*
@@ -27,7 +27,7 @@ I help startup founders, agencies, and businesses build secure, high-performance
 *A synchronized platform designed for precision field agent deployment.*
 - **Business Impact:** Implemented Proof-of-Work logic via GPS-fenced photo evidence capture to ensure accountability for remote workers.
 - **Tech:** Node.js API, React Dashboard, Flutter Mobile Terminal, MongoDB.
-- [**Live Demo**](https://ermiasantigegn.vercel.app) | [**View Repository**](https://github.com/ermima/Enterprise-Field-Service-Resource-Management-Platform)
+- [**Live Demo**](https://ermiasantigegn.dev) | [**View Repository**](https://github.com/ermima/Enterprise-Field-Service-Resource-Management-Platform)
 
 ---
 
@@ -52,7 +52,7 @@ As a developer, I don't just write code; I write code that protects and grows yo
 
 ---
 
-## 📊 GitHub Activity & Performance
+##  GitHub Activity & Performance
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ermima&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -64,7 +64,6 @@ As a developer, I don't just write code; I write code that protects and grows yo
 ## 🤝 Let's Build Something Great
 I am currently available for **Freelance Contracts** and **Remote Full-Time Roles**.
 
-- 🌍 **Based in:** Bahir Dar, Ethiopia (GMT+3) - *Flexible to overlap with EU/US time zones.*
 - 💼 **Current Role:** Full-Stack Engineer @ Alyah Software
 - 💬 **Ask me about:** Laravel API Optimization, React performance, or SaaS Architecture.
 
