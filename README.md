@@ -6,7 +6,7 @@ I help startup founders, agencies, and businesses build secure, high-performance
 
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01a6c487f6828d9ce9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ermias-antigegn-20756a253/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel)](https://ermiasantigegn.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel)](https://ermiasantigegn.dev)
 [![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/ermiasantigegn)
 
 ---
